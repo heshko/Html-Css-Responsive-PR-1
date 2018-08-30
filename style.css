@@ -1,0 +1,171 @@
+body{
+    margin:0;
+   
+}
+
+a{
+    color:white;
+    margin-left: 10px
+}
+.nn1{
+    background-color: aqua;
+    color: white;
+}
+.nn2{
+    background-color: aquamarine;
+    color:black 
+}
+
+
+
+.upp{
+    background-color: palevioletred;
+    height: 400px;
+   text-align: center;
+   color: white
+}
+
+
+
+.down{
+    text-align: right;
+    padding-right: 40px
+    
+
+}
+
+.upp2{
+    text-decoration: none;
+
+}
+
+.down2{
+    padding-top: 150px
+}
+.upp5{
+    background-color: white;
+    height: 400px;
+   text-align: center;
+   color: black;
+   padding-top: 10px
+}
+.upp6{
+    color:gray
+}
+
+.upp7{
+    width: 200px;
+    height: 200px;
+    padding-left: 10px;
+    border-radius: 50%
+}
+
+
+
+}
+
+main{
+    margin:auto;
+    background-color: #f9ca25;
+    padding: 30px;
+}
+
+section{
+    margin: 20px 0px;
+}
+.box{
+    height: 200px;
+    padding: 5px;
+    margin: 0 15px;
+    text-align: center;
+}
+
+
+
+
+.meet{
+    text-align: center
+
+}
+
+p{
+    text-align: center
+}
+
+.imge{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.bilder{
+    height: 200px;
+    
+    background-image: url(https://thumbs.gfycat.com/VastVigorousBarnswallow-size_restricted.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding: 30px
+    
+}
+
+
+
+
+.imge2{
+    padding-left:10px;
+    width: 100px;
+    height: 100px;
+   
+
+}
+
+input{
+    color: gray
+}
+
+.input1{
+    padding: 30px
+
+}
+
+.CONTACT{
+    text-align: center;
+    padding: 30px
+
+}
+
+.imge3{
+    padding-left:10px;
+    width: 300px;
+    height: 150px;
+   
+      
+}
+
+input{
+    padding-top: 10px
+}
+
+.heshko2{
+    height: 100px;
+    background-color: darkslategrey;
+    text-align: center;
+    padding-top: 30px;
+}   
+
+
+.p3{
+    padding-top: 0px
+}
+
+.heshko3{
+    background-color: black;
+    color:white;
+    height: 20px;
+    
+}
+.abb{
+    width: 20px;
+    height: 20px;
+}
